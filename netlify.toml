@@ -1,4 +1,6 @@
+[build.processing.html]
+  pretty_urls = true
+
 [[redirects]]
   from = "/*"
-  to = "/"
-  status = 404
+  to = "/index"
